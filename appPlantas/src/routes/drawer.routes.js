@@ -1,6 +1,7 @@
 import {createDrawerNavigator} from '@react-navigation/drawer'
 import { Feather} from '@expo/vector-icons';
 
+//configurando rotas
 import Home from '../pages/home'
 import Pag01 from '../pages/pag01'
 import Pag02 from '../pages/pag02'
