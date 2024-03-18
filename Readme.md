@@ -1,6 +1,6 @@
-<h1>Lista de Updates</h1>
+<h3>Lista de Updates</h3>
 
-<h3>15/03/2024 - Alexandre</h3>
+<h4>15/03/2024 - Alexandre</h4>
 <p>  -Criação do repositório</p>
 <p>  -upload do projeto</p>
 
